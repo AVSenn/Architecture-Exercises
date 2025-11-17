@@ -7,7 +7,8 @@ LEVEL 3: Pick a challenge (tests thinking)
 LEVEL 4: Build something new (tests creativity)
 
 DUE: Wednesday 11:59 PM
-Where to submit: Teams #architecture channel.
+Submit via: GitHub PR (preferred) or Teams #architecture channel.
+See submission_format.txt for details.
 """
 
 from transformers import pipeline
