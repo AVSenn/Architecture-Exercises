@@ -118,6 +118,5 @@ python diagnostic_task.py
 - **Python version issues**: Let uv manage Python: `uv python install 3.11`
 
 ## Getting Help
-- Post in Teams #architecture-help
-- Office hours: [Your times]
-- Tag @Ali in Teams
+- Send a message to one of the leads!!
+@Ali Almarzooq or @Sebastian Ene

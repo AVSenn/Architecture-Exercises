@@ -1,6 +1,6 @@
 ## **SUBMISSION FORMAT**
 
-**Post in Teams #architecture channel by Friday 11:59 PM:**
+**Post in Teams #architecture channel by Wednesday 11:59 PM:**
 ```
 Subject: [Your Name] - Diagnostic Task Submission
 

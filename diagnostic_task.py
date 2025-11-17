@@ -6,7 +6,7 @@ LEVEL 2: Expand it (tests Python skills)
 LEVEL 3: Pick a challenge (tests thinking)
 LEVEL 4: Build something new (tests creativity)
 
-DUE: Friday 11:59 PM
+DUE: Wednesday 11:59 PM
 Where to submit: Teams #architecture channel.
 """
 

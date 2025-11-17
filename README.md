@@ -56,7 +56,7 @@ week3/
 4. **Complete Levels**
    - **Level 1**: Get basic text generation working (required)
    - **Level 2**: Experiment with parameters and document findings
-   - **Level 3**: Pick one challenge (A, B, C, or D)
+   - **Level 3**: Pick one challenge (A, B, C, or D), feel free to do all of them!!
    - **Level 4**: Build something new and creative
 
 ## Task Details
@@ -71,7 +71,7 @@ See individual level folders for detailed instructions:
 
 See [submission_format.txt](submission_format.txt) for the submission template.
 
-**Due:** Friday 11:59 PM  
+**Due:** Wednesday 11:59 PM  
 **Submit to:** Teams #architecture channel
 
 ## Resources
