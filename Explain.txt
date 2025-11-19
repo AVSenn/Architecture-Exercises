@@ -1,0 +1,4 @@
+2. Itertools automatically generates the parameter combinations. Defined various arrays according to the requirement.The list here produced 3 max_lengths × 3 temperatures × 3 top_k =27 combinations.
+
+3. Using very high max_lengths and loses sampling parameters like (temperature and top_k),the models try to continue patterns indefinitely. High sampling randomness also increases looping risk.
+To fix it , lower the temperature, lower the top_k.
